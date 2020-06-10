@@ -1,0 +1,28 @@
+build/default/debug/system.o:  \
+system.c  \
+System.h  \
+Os/Os.h  \
+ Os/Common/Utils/GenericTypeDefs.h  \
+Os/Pic/Peripheral/Peripheral.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/PIC33E_plib.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/adc.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/comparator.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/peripheralversion.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/crc.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/Generic.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/dci.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/dma.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/ecan.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/hspwm.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/i2c.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/incap.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/outcompare.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/pmp.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/ports.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/reset.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/rtcc.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/spi.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/timer.h  \
+ Os/Pic/Peripheral/../../Pic/Include33e/uart.h  \
+Os/Pic/Time/Time.h  \
+ Os/Pic/Time/../../Common/Utils/GenericTypeDefs.h 
